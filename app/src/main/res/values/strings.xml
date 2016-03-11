@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Puskesmas</string>
+
+    <string name="ps1">
+        <item>  Depkes       : P3101020201
+              \n  Sp2p         : 31700101
+              \n  Nama         : KEC. KEP. SERIBU UTA
+              \n  Kecamatan    : KEPULAUAN SERIBU UTARA
+              \n  Alamat       : Pulau Kelapa
+              \n  Telp         : 000-
+              \n  Fax          : 000-
+              \n  Email        : -</item>
+    </string>
+    <string name="ps2">
+        <item>  Depkes       : P3101020202
+              \n   Sp2p         : 31700103
+              \n   Nama         : KEL PULAU PANGGANG
+              \n   Kecamatan    : KEPULAUAN SERIBU UTARA
+              \n   Alamat       : Kec. Kep. Seribu Utara
+              \n   Telp         : 000-
+              \n   Fax          : 000-
+              \n   Email        : -</item>
+    </string>
+    <string name="ps3">
+        <item>  Depkes       : P3101020204
+              \n   Sp2p         : 31700104
+              \n   Nama         : KEL. PULAU HARAPAN
+              \n   Kecamatan    : KEPULAUAN SERIBU UTARA
+              \n   Alamat       : Kel. Pulau Harapan
+              \n   Telp         : 000-
+              \n   Fax          : 000-
+              \n   Email        : -</item>
+    </string>
+    <string name="ps4">
+        <item>  Depkes       : P3101010201
+              \n   Sp2p         : 31700201
+              \n   Nama         : KEC. KEP. SERIBU SEL
+              \n   Kecamatan    : KEPULAUAN SERIBU SELATAN
+              \n   Alamat       : Pulau Tidung
+              \n   Telp         : 000-
+              \n   Fax          : 000-
+              \n   Email        : -</item>
+    </string>
+    <string name="ps5">
+        <item>  Depkes       : P3101010203
+              \n   Sp2p         : 31700203
+              \n   Nama         : KEL. PULAU UNTUNG JA
+              \n   Kecamatan    : KEPULAUAN SERIBU SELATAN
+              \n   Alamat       : Kel Pulau Untung Jawa
+              \n   Telp         : 021-70617381
+              \n   Fax          : 000-
+              \n   Email        : -</item>
+    </string>
+    <string name="ps6">
+        <item>  Depkes       : P3101010204
+              \n   Sp2p         : 31700104
+              \n   Nama         : KEL. PULAU PARI
+              \n   Kecamatan    : KEPULAUAN SERIBU SELATAN
+              \n   Alamat       : Kel. Pulau Pari
+              \n   Telp         : 000-
+              \n   Fax          : 021-70978166
+              \n   Email        : -</item>
+    </string>
+    <string name="ps7">
+        <item>  Depkes       : P3171010201
+              \n   Sp2p         : 31711001
+              \n   Nama         : KEC. JAGAKARSA
+              \n   Kecamatan    : JAGAKARSA
+              \n   Alamat       : Jl. Moh Kahfi RT 009
+              \n   Telp         : 021-7864707
+              \n   Fax          : 021-7864707
+              \n   Email        : -</item>
+    </string>
+    <string name="ps8">
+        <item>  Depkes       : P3171010202
+              \n   Sp2p         : 31711002
+              \n   Nama         : KEL. JAGAKARSA I
+              \n   Kecamatan    : JAGAKARSA
+              \n   Alamat       : Jl. Jagakarsa RT 004
+              \n   Telp         : 021-7873926
+              \n   Fax          : 021-7873926
+              \n   Email        : -</item>
+    </string>
+    <string name="ps9">
+        <item>  Depkes       : P3171010203
+              \n   Sp2p         : 31711003
+              \n   Nama         : KEL. JAGAKARSA  II
+              \n   Kecamatan    : JAGAKARSA
+              \n   Alamat       : Jl. Jati Padang Raya. RT 012
+              \n   Telp         : 021-7874051
+              \n   Fax          : 000-
+              \n   Email        : -</item>
+    </string>
+    <string name="ps10">
+        <item>  Depkes       : P3171010204
+              \n   Sp2p         : 31711004
+              \n   Nama         : KEL. LENTENG AGUNG
+              \n   Kecamatan    : JAGAKARSA
+              \n   Alamat       : Jl. Lontar RT 009
+              \n   Telp         : 021-7875322
+              \n   Fax          : 000-
+              \n   Email        : -</item>
+    </string>
+</resources>

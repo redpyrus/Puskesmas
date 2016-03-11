@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="#d7eac5">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:paddingLeft="15dp"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/ps4"
+        android:textStyle="bold"
+        android:textAppearance="?android:textAppearanceLarge"/>
+
+</RelativeLayout>
